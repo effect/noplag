@@ -1,0 +1,1 @@
+var ar: Array [5..10] of double;

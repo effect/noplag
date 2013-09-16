@@ -1,0 +1,16 @@
+testProgramsWithVsWithoutBeginEnd
+	returns ~90%. It's a good result. 
+	Comparator based on longest common substring will process this test bad. 
+
+testProgramsGreaterVsLess 
+	returns 100%. It's not very good. 
+	If compare operations are supposed to be different result will less than 100%.
+
+testSoDifferentProgramsWithLongLCS
+	return ~90%. It's not very good, because logics of this program are so different. 
+
+
+
+
+
+	

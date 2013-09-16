@@ -1,0 +1,10 @@
+N
+ID
+:=
+ASSIGN
+a
+ID
+*
+MULTIPLY_OPERATION
+b
+ID

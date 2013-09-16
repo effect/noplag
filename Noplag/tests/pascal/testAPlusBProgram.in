@@ -1,0 +1,7 @@
+program APlusB;
+var
+	a, b : integer; // items
+begin
+	read(a, b);
+	writeln(a + b);
+end.

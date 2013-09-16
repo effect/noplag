@@ -1,0 +1,10 @@
+program p;
+var
+	a, b : double;
+begin
+	if (b > a) begin
+		writeln(a);
+	end else begin
+		writeln(b);
+	end;
+end.

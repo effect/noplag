@@ -1,0 +1,9 @@
+var 
+	a, b : integer;
+begin
+	b := 2;
+	for a := 1 to 10 do begin
+		inc(b);
+	end;
+	writeln(b);
+end.

@@ -1,0 +1,9 @@
+var
+	a, b : double;
+begin
+	if (a < b) begin
+		writeln(a);
+	end else begin
+		writeln(b);
+	end;
+end.
